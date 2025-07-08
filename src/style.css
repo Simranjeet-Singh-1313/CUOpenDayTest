@@ -90,6 +90,18 @@ button:focus-visible {
   font-family: inherit;
 }
 
+/* Footer link color override */
+.footer-link {
+  color: #fff !important;
+  transition: color 0.2s;
+}
+.footer-link:hover {
+  color: #D50032 !important;
+}
+.footer-bg {
+  background-color: #1a1a1a !important;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
