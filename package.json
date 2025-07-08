@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Simranjeet-Singh-1313.github.io/CUOpenDayTest",
+
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
