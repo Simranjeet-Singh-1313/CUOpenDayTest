@@ -26,7 +26,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/) and configured wi
 
 ## 📌 Features & Changes Implemented
 
-| #  | Feature/Change                             | What You Added                                                                 | Why It Matters                                                                 |
+| #  | Feature/Change                             | What I Added                                                                 | Why It Matters                                                                 |
 |----|--------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | 1  | Full Navigation Bar                        | Sticky `<nav>` with Home, Schedule, Campus Map, and Contact buttons             | Provides consistent navigation and better user experience on all devices       |
 | 2  | Mobile Menu (Hamburger Toggle)             | Responsive collapsible menu for smaller screens                                 | Enhances mobile accessibility                                                  |
@@ -45,8 +45,6 @@ This project was bootstrapped with [Vite](https://vitejs.dev/) and configured wi
 | 15 | HTML Accessibility Features                | Used `aria-labels`, alt tags, `rel="noopener noreferrer"`                       | Increases usability for screen readers and improves security                   |
 
 ---
-
-
 
 
 
